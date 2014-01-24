@@ -16,7 +16,7 @@
 @class VideosViewController;
 @class PricesViewController;
 @class NutrientViewController;
-
+/*tested inorder to commit the code from master is wotking fine or not in ios Git hub*/
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
