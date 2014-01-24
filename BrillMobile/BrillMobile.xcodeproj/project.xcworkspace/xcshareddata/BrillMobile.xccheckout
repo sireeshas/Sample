@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7CB7FCC7-9B75-4BB4-9BC1-F6D31D3449EE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BrillMobile</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B0FCA174-3F7B-4A73-9596-9BB1E963E0FF</key>
+		<string>http://svn.valuelabs.net/svn/iphone/Projects/BrillApp_Universal/BrillMobile</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BrillMobile.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B0FCA174-3F7B-4A73-9596-9BB1E963E0FF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>B0FCA174-3F7B-4A73-9596-9BB1E963E0FF</key>
+		<string>http://svn.valuelabs.net/svn/iphone</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://svn.valuelabs.net/svn/iphone/Projects/BrillApp_Universal/BrillMobile/BrillMobile.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B0FCA174-3F7B-4A73-9596-9BB1E963E0FF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B0FCA174-3F7B-4A73-9596-9BB1E963E0FF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BrillMobile</string>
+		</dict>
+	</array>
+</dict>
+</plist>
